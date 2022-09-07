@@ -1,0 +1,30 @@
+
+.app-container {
+text-align: left;
+color: white;
+font-size: 1.5rem;
+margin:auto
+}
+
+.data-from-array{
+  float:left;
+  background: rgb(24, 135, 183);
+  width: 50%;
+}
+
+.input1,.input2{
+  padding: 10px;
+  margin-left: 40px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.data-from-firebase{
+  float: right;
+    background: rgb(182, 46, 96);
+  width: 50%;
+}
+
+button{
+  padding: 10px;
+}
